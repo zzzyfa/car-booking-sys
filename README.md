@@ -1,6 +1,11 @@
 # Car Booking System
 
-- The system is capable of performing bookings for customers who would want to rent a car from the agent. 
+- This desktop application was a group class assignment from APU, developed in VB.Net.
+- Further explanations and screenshots can be found in VBNET REPORT.docx 
+
+---
+
+
 - The booking process allows customers to select one specific car model which is currently available and once selected, it would display the car details such as car ID, price and deposit. 
 - Once customers are satisfied with their choice, they would be able to select the day, date and time they would like to start renting the car and return the car, in which the total amount to be paid will be calculated and displayed depending on the car they rent and for how long they would rent it.
 - After the booking process, the operator is also capable of generating a transaction report based on the transaction information provided after bookings have been performed, for performance or sales comparison. 
